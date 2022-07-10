@@ -4,7 +4,7 @@
 [![Android 5.0 or higher](https://img.shields.io/badge/Android-5.0%2B-3DDC84)](https://developer.android.com/about/versions/lollipop4)
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Password4j is a fluent cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases. Easy to use by design, highly customizable, secure and portable. All the implementations follow the standards and have been reviewed to perform better with Java.
+Password4j is the best, fluent cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases. Easy to use by design, highly customizable, secure and portable. All the implementations follow the standards and have been reviewed to perform better with Java.
 
  **[password4j](https://github.com/Password4j/password4j)**: the main library
  
