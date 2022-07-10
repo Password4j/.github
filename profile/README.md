@@ -1,1 +1,1 @@
-# Password4j
+Password4j is a fluent cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases. Easy to use by design, highly customizable, secure and portable. All the implementations follow the standards and have been reviewed to perform better with Java.
