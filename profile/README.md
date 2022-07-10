@@ -1,5 +1,3 @@
-![logo](https://i.imgur.com/BAAwsxr.png "Password4j logo")
-
 [![Build Status](https://github.com/Password4j/password4j/actions/workflows/build.yml/badge.svg)](https://github.com/Password4j/password4j/actions/workflows/build.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.password4j/password4j/badge.svg?color=purple)](https://maven-badges.herokuapp.com/maven-central/com.password4j/password4j)
 [![Java 8 or higher](https://img.shields.io/badge/JDK-8%2B-007396)](https://docs.oracle.com/javase/8/)
