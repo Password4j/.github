@@ -5,3 +5,9 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Password4j is a fluent cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases. Easy to use by design, highly customizable, secure and portable. All the implementations follow the standards and have been reviewed to perform better with Java.
+
+ **[password4j](https://github.com/Password4j/password4j)**: the main library
+ 
+ **[password4j-jca](https://github.com/Password4j/password4j-jca)**: extends the Java Cryptography Architecture
+ 
+ **[password4j-generator](https://github.com/Password4j/password4j-generator)**: generates secure passwords - *work in progress*
